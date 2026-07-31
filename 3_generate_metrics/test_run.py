@@ -52,7 +52,7 @@ logger = logging.getLogger(__name__)
 # ============================================================================
 
 # WORKING DIRECTORY
-MAIN_DIR = Path("/Users/number6/Projects/Bimini/")
+MAIN_DIR = Path("/Projects/")
 
 # HISTORICAL DATA
 HISTORICAL_DATA = MAIN_DIR / "0_data" / "historical"
