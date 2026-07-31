@@ -1,0 +1,1 @@
+# Empty file is sufficient for basic package recognition
